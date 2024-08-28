@@ -13,7 +13,7 @@
 - 💬 Ask me about **php , laravel & symfony**
 
 - 📫 How to reach me **tariq.ayman94@gmail.com**
-- 
+
 - 🤞 Checkout my last projcet <a href="https://github.com/FlowSahl/laravel-zero-time" target="blank"> Laravel Zero Time</a>
 
 ###
