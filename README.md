@@ -50,5 +50,4 @@ If you’re looking for a dedicated, results-oriented Senior Backend Engineer wh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqayman" alt="tariqayman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tariq_ayman" target="blank"><img src="https://img.shields.io/twitter/follow/tariq_ayman?logo=twitter&style=for-the-badge" alt="tariq_ayman" /></a> </p>
 ###
